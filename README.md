@@ -3,7 +3,7 @@
 An extension for EPiServer Find's MultiSearch which enables multisearch queries without projections. This means that you can execute several searches for several types, returned in the original state.
 Automatic projection handling for IContent items has also been added, so you may search for any type of IContent and not get serialization errors.
 
-##Usage
+## Usage
 
 
 ```c#
