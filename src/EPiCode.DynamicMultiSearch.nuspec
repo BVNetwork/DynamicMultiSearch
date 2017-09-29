@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+     <title>EPiCode.DynamicMultiSearch</title>
+    <authors>Per Magne Skuseth</authors>
+    <owners>BV Network AS</owners>
+    <projectUrl>https://github.com/BVNetwork/DynamicMultiSearch</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>An extension to EPiServer Find's multisearch</description>
+    <copyright>Copyright 2015</copyright>
+    <tags>EPiServer Find</tags>
+  </metadata>
+</package>
